@@ -13,8 +13,14 @@ public class A {
 
 	}
 
+	private void method0() {
+		System.out.println("method0");
+
+	}
+	
 	private void sample() {
 		System.out.println("method1");
-	}
 
+	
+	}
 }
